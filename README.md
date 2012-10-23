@@ -1,4 +1,4 @@
-#Template component
+#Pong-clone
 ##Introduction
 I'm trying to pump up my C development chops by writing a Pong clone using ncurses rather than 
 raster/vector graphics, which can come later.
